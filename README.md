@@ -1,2 +1,99 @@
-# GiftKarteApp
-This app showcases my industrial portfolio when associated with GiftKarte
+# 🎁 GiftKarte (For Demo Use Only)
+### Industrial Portfolio — UI Showcase  
+**Note:** This application belongs to **GiftKarte, Pakistan**.  
+This repository is created **only for demo and presentation purposes** to showcase UI work, improvements, and contributions.
+
+---
+
+## 📌 About the App
+
+**GiftKarte** is a mobile application available on Google Play in Pakistan, allowing users to purchase **customized e-vouchers** that can be gifted to anyone.  
+These vouchers are redeemable at various fashion outlets and food chains across Pakistan.  
+This demo repository does **not** contain production code or proprietary implementation.  
+It only includes **visual previews** strictly for portfolio and hiring review.
+
+---
+
+## 👨‍💻 My Role & Contributions
+
+I worked on improving the **overall GiftKarte app** while working directly with the client in Pakistan:
+
+- 🛠️ **Fixed recurring bugs and maintained app stability over time**  
+- 🎨 **Polished UI layouts and enhanced user experience**  
+- 💳 **Integrated voucher redemption feature** within the app  
+- 📱 **Improved app flow, interactions, and overall usability**
+
+This portfolio highlights the **interface and feature enhancements** I worked on, without exposing proprietary code.
+
+---
+
+## 🧩 Demo Assets Included  
+
+This repository contains **only the following items**:
+
+- ✔ **App Icon**  
+- ✔ **Two landscape showcase strips** (showing multiple screens)  
+- ❌ No source code  
+- ❌ No backend logic  
+- ❌ No proprietary files  
+
+Everything presented is strictly for **visual demonstration**.
+
+---
+
+## 🖼️ Visual Preview
+
+### **App Icon**
+![App Icon](assets/app_icon.webp)
+
+---
+
+### **Showcase — Landscape Preview 1**
+![Landscape 1](assets/1.png)
+
+---
+
+### **Showcase — Landscape Preview 2**
+![Landscape 2](assets/2.png)
+
+---
+
+## 📥 Download (Official Links)
+
+> Note: This app is available only on Google Play.
+
+**Google Play:**  
+[View it on Google Play](https://play.google.com/store/apps/details?id=com.ionic.giftkarte&hl=gsw)
+
+**App Store:**  
+N/A
+
+---
+
+## 📄 Disclaimer
+
+This repository is **not affiliated with, endorsed by, or officially representing GiftKarte**.  
+It is intended **solely to demonstrate my UI contributions and feature integration work**.  
+All rights to the original application belong to **GiftKarte, Pakistan**.
+
+---
+
+## 📬 Contact
+
+For professional work, collaborations, or UI development:
+
+**Email:** hamzabilalgaya.bilal@gmail.com  
+**LinkedIn:** [View my LinkedIn Profile](https://www.linkedin.com/in/hamza-bilal-g-4259a8181)  
+**Fiverr:** [View my Fiverr profile](https://www.fiverr.com/s/EgZdxBK)  
+**Upwork:** [View my Upwork profile](https://www.upwork.com/freelancers/~01474d05eaa4a6e38b)  
+
+---
+
+## ⭐ Support My Work
+
+If you like my work and want to support future UI components, tutorials, and open source:
+
+### ☕ **Buy Me a Coffee**  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hamzag)
+
+---
